@@ -1,1 +1,1 @@
-Repository of the 1st SN host workshop held in Pittsburgh on Januray 22-24 2019
+Repository of the 2nd SN host workshop held in Southampton on September 23-25 2019
