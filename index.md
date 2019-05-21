@@ -10,15 +10,16 @@ In the context of stellar evolution, core-collapse SNe signal the death throes o
 
 ## Venue
 
-The workshop will be held at the Department of Physics and Astronomy of Univertity of Pittsburgh at **Allen Hall**.
+The workshop will be held at the XXXXXXXX of Univertity of Southampton at **XXX**.
 
 [![](https://raw.githubusercontent.com/amusing-muse/workshop/master/map.png)](https://www.google.com/maps/place/Department+of+Physics+and+Astronomy/@40.4440856,-79.9582102,17z/data=!4m5!3m4!1s0x8834f22a1b91901b:0xb323ed98843e3372!8m2!3d40.4446041!4d-79.9582853)
 
 Hotel:
 
-We have arranged for a block of rooms at the [**Residence Inn by Marriott Pittsburgh University/Medical center**](https://www.google.com/maps/place/Residence+Inn+by+Marriott+Pittsburgh+University%2FMedical+Center/@40.4512219,-79.9515301,16z/data=!4m5!3m4!1s0x0:0xd38afc9188b28eeb!8m2!3d40.4539194!4d-79.9550173), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
+We have arranged for a block of rooms at the [**Highfield House Hotel**](https://www.google.com/maps/place/Highfield+House+Hotel/@50.9287867,-1.3969407,15.85z/data=!4m12!1m6!3m5!1s0x4874740808456623:0xac45b908762e7a39!2sHighfield+House+Hotel!8m2!3d50.9278199!4d-1.391693!3m4!1s0x4874740808456623:0xac45b908762e7a39!8m2!3d50.9278199!4d-1.391693), 
+[(webpage)](http://www.highfieldhousehotel.co.uk/), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
 
-Getting to the Hotel/Allen Hall:
+Getting to the Hotel/(sala de conf.):
 
 There are several options for reaching the Hotel from the Pittsburgh International Airport. A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40. Super Shuttle is ~$25 for a shared ride van. 
 
@@ -27,26 +28,14 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 
 ## Participants
 
-- Joseph Anderson (ESO)
 - Charlotte Angus (Soton)
-- Meghan Cliento (Pitt)
-- Chris D’Andrea (Penn) 
-- Lluís Galbany (Pitt)
+- Lluís Galbany (Granada)
 - Claudia Gutiérrez (Soton)
-- Jared Hand (Pitt)
 - Lisa Kelsey (Soton)
-- Hanindyo Kuncarayakti (Turku)
-- Shu Liu (Pitt)
-- Joseph Lyman (Warwick)
-- Hector Martınez (Pitt)
-- Daniel Perrefort (Pitt)
-- Mickael Rigault (IN2P3) 
-- Sebastián Sánchez (UNAM)
-- Patricia Schady (UBath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
 - Phil Wiseman (Soton)
-- Michael Wood-Vasey (Pitt)
+- 
 
 <!--- Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)--->
 
@@ -55,17 +44,17 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 The day will start with an introductory talk about one of the three main topics of the workshop. We will have time for 25' (+5') talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
 
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
-|             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
+|             |  Monday 23rd            | |             |  Tuesday 24th                  | |             |  Wednesday 25th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
-| 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Smith)    | | 09:00-10:00 | Review CC env. (J. Anderson) |
-| 09:30-11:00 | Review IFU (S. Sánchez) | | 10:00-10:30 | L. Kesley                      | | 10:00-10:30 | H. Kuncarayakti              |
+| 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Talk                           | | 09:00-10:00 | Talk                         |
+| 09:30-11:00 | Talk                    | | 10:00-10:30 | Talk                           | | 10:00-10:30 | Talk                         |
 | 11:00-11:30 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
-| 11:30-12:15 | P. Wiseman              | | 11:00-11:30 | M. Rigault                     | | 11:00-11:30 | P. Schady                    |
-| 12:15-13:45 | Lunch                   | | 11:30-12:00 | J. Hand                        | | 11:30-12:00 | C. Gutierrez                 |
-| 13:45-14:30 | L. Galbany              | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
-| 14:30-15:00 | H. Martinez             | | 13:30-14:00 | J. Lyman                       | | 13:30-14:30 | Discussion                   |
-| 15:00-15:30 | Coffee (topic sel.)     | | 14:00-14:30 | C. Angus                       | | 14:30-15:00 | Coffee                       |
-| 15:30-16:00 | C. Badenes              | | 14:30-15:00 | Coffee (topic sel.)            | | 15:00-16:00 | Future directions/Closure    |
+| 11:30-12:15 | Talk                    | | 11:00-11:30 | Talk                           | | 11:00-11:30 | Talk                         |
+| 12:15-13:45 | Lunch                   | | 11:30-12:00 | Talk                           | | 11:30-12:00 | Talk                         |
+| 13:45-14:30 | Talk                    | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
+| 14:30-15:00 | Talk                    | | 13:30-14:00 | Talk                           | | 13:30-14:30 | Discussion                   |
+| 15:00-15:30 | Coffee (topic sel.)     | | 14:00-14:30 | Talk                           | | 14:30-15:00 | Coffee                       |
+| 15:30-16:00 | Talk                    | | 14:30-15:00 | Coffee (topic sel.)            | | 15:00-16:00 | Future directions/Closure    |
 | 16:00-17:15 | WWE                     | | 15:00-16:30 | WWE                            | |             |                              |
 | 17:15-18:00 | Discussion              | | 16:30-17:30 | Discussion                     | |             |                              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
@@ -74,27 +63,13 @@ The day will start with an introductory talk about one of the three main topics 
 
 ## Talks:
 
-#### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/blob/master/talks/Galbany-Introduction.pdf)
-#### S. Sánchez: [Review of IFU studies of Nearby galaxies](https://github.com/amusing-muse/workshop/blob/master/talks/Sanchez-IFS_Surveys.ppt)
-#### P. Wiseman: [Host Galaxies of Supernovae in the Dark Energy Survey](https://github.com/amusing-muse/workshop/blob/master/talks/Weisman-DEShosts.pdf)
-#### L. Galbany: [SN IFU surveys: PISCO / AMUSING / MaNGA / HiKIDS](https://github.com/amusing-muse/workshop/blob/master/talks/Galbany-IFUSNsurveys.pdf)
-#### H. Martínez: [Recovering lost light: discovery of supernova remnants with integral field spectroscopy data](https://github.com/amusing-muse/workshop/blob/master/talks/Martinez-SNR.pdf)
-#### C. Badenes: DTDs with IFU
+#### Speaker1: [Title1](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-#### M. Smith: [Host galaxy properties of type Ia supernova as determined by the Dark Energy Survey](https://github.com/amusing-muse/workshop/blob/master/talks/Smith-SNIaCosmo.pdf)
-#### L. Kesley: [The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey](https://github.com/amusing-muse/workshop/blob/master/talks/Kesley-DESlocal.pdf)
-#### M. Rigault: [Consequences of SNIa Environmental Bias for Cosmology](https://github.com/amusing-muse/workshop/blob/master/talks/Rigault-CosmoBias.pdf)
-#### J. Hand: [Comparison between photometric and spectroscopic estimation of galaxy parameters](https://github.com/amusing-muse/workshop/blob/master/talks/Hand-Comparison.pdf)
-#### J. Lyman: [The SIGNALS survey: a census of local star-formation](https://github.com/amusing-muse/workshop/blob/master/talks/Lyman-Signals.pdf)
-#### C. Angus: [Superluminous Supernova Hosts](https://github.com/amusing-muse/workshop/blob/master/talks/Angus-SLSNhosts.key)
+#### Speaker2: [Title2](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-#### J. Anderson: [Core-collapse supernova environments](https://github.com/amusing-muse/workshop/blob/master/talks/Anderson-CCreview.pdf)
-#### H. Kuncarayakti: [Nebular spectroscopy from AMUSING (P100-P101 recap) + ASASSN-14dd](https://github.com/amusing-muse/workshop/blob/master/talks/Kuncarayakti-Nebsp.pdf)
-#### P. Schady: [Inferring the progenitor mass of explosive transients through their environment](https://github.com/amusing-muse/workshop/blob/master/talks/Schady-HaEW.pdf)
-#### C. Gutierrez: [low-L SNII hosts](https://github.com/amusing-muse/workshop/blob/master/talks/Gutierrez-lowZhosts.pdf)
 
 ## Contact
 
-Cynthia.ferich(at)pitt(dot)edu
+C.P.Gutierrez-Avendano(at)soton(dot)ac(dot)uk
 
-llgalbany(at)pitt(dot)edu
+lgalbany(at)ugr(dot)es
