@@ -37,7 +37,31 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Phil Wiseman (Soton)
 - 
 
-<!--- Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)--->
+<!--- 
+Joseph Lyman (Warwick)
+Santiago González-Gaitán (CENTRA)
+Hanindyo Kuncarayakti (Turku)
+Patricia Schady (Bath)
+Mickael Rigault ()
+Tomás Muller (Soton)
+Matt Greayling (Soton)
+Mike Prusianen (Soton)
+Mike Childress (Soton)
+Bob Nichol (ICG)
+Chris Forhaimer (ICG)
+Maria Vincenzi (ICG)
+Eli Swan (ICG)
+1-2 MaNGA (Claiudia, Daniel...)
+Sebastían Sánchez (UNAM)
+1-2 UGR (Enrique, Rosa, Rubén.. Isa Pérez...)
+? Thomas de Jaeger
+? Luca Izzo
+? Janet
+? Phil James + student
+? Stuart Sim
+? Staphane Blondin
+? Takashi Moriya
+Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)--->
 
 ## Program
 
