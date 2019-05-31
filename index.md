@@ -10,7 +10,7 @@ In the context of stellar evolution, core-collapse SNe signal the death throes o
 
 ## Venue
 
-The workshop will be held at the XXXXXXXX of Univertity of Southampton at **XXX**.
+The workshop will be held at the School of Physics and Astronomy of Univertity of Southampton.
 
 [![](https://raw.githubusercontent.com/amusing-muse/workshop2/master/map.png)](https://www.google.com/maps/place/Physics+and+Astronomy/@50.9344767,-1.3999957,17.24z/data=!4m12!1m6!3m5!1s0x4874740808456623:0xac45b908762e7a39!2sHighfield+House+Hotel!8m2!3d50.9278199!4d-1.391693!3m4!1s0x48747409db5d06ab:0x1b556011b5191e29!8m2!3d50.9352966!4d-1.399348)
 
