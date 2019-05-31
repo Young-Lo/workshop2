@@ -17,7 +17,7 @@ The workshop will be held at the XXXXXXXX of Univertity of Southampton at **XXX*
 Hotel:
 
 We have arranged for a block of rooms at the **Highfield House Hotel** ([map](https://www.google.com/maps/place/Highfield+House+Hotel/@50.9287867,-1.3969407,15.85z/data=!4m12!1m6!3m5!1s0x4874740808456623:0xac45b908762e7a39!2sHighfield+House+Hotel!8m2!3d50.9278199!4d-1.391693!3m4!1s0x4874740808456623:0xac45b908762e7a39!8m2!3d50.9278199!4d-1.391693)/ 
-[webpage](http://www.highfieldhousehotel.co.uk/)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
+[webpage](http://www.highfieldhousehotel.co.uk/)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Ceris French at C.French(at)soton(dot)ac(dot)uk, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
 
 Getting to the Hotel/**(nombre sala de conf.)**:
 
