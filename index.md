@@ -19,11 +19,9 @@ Hotel:
 We have arranged for a block of rooms at the **Highfield House Hotel** ([map](https://www.google.com/maps/place/Highfield+House+Hotel/@50.9287867,-1.3969407,15.85z/data=!4m12!1m6!3m5!1s0x4874740808456623:0xac45b908762e7a39!2sHighfield+House+Hotel!8m2!3d50.9278199!4d-1.391693!3m4!1s0x4874740808456623:0xac45b908762e7a39!8m2!3d50.9278199!4d-1.391693)/ 
 [webpage](http://www.highfieldhousehotel.co.uk/)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Ceris French at C.French(at)soton(dot)ac(dot)uk, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
 
-Getting to the Hotel/**(nombre sala de conf.)**:
+Getting to the Hotel/**University of Southampton**:
 
 There are several options for reaching the Hotel from the Pittsburgh International Airport. A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40. Super Shuttle is ~$25 for a shared ride van. 
-
-There is a Port Authority bus line from the airport with stops near the hotel, the 28X ([link](https://www.portauthority.org/rt/28x.pdf)) that runs every half hour from 5:30 am to midnight. The fare is only $2.75, though the trip will take slightly longer than an hour. Exit the bus at Bellefield Ave at 5th Ave, the Residence Inn by Marriott is at 10 minutes walk.
 
 
 ## Participants
