@@ -30,7 +30,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 ## Participants
 
 - Charlotte Angus (Soton)
-- Janet Ting-Wan Chen
+- Janet Ting-Wan Chen (MPI)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
 - Claudia Gutiérrez (Soton)
