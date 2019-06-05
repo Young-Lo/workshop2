@@ -31,6 +31,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 - Charlotte Angus (Soton)
 - Lluís Galbany (Granada)
+- Santiago González-Gaitán (CENTRA)
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
 - Matthew Smith (Soton)
@@ -40,7 +41,6 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 <!--- 
 Joseph Lyman (Warwick)
-Santiago González-Gaitán (CENTRA)
 Hanindyo Kuncarayakti (Turku)
 Patricia Schady (Bath)
 Mickael Rigault ()
