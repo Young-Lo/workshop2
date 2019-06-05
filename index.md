@@ -17,11 +17,13 @@ The workshop will be held at the School of Physics and Astronomy of Univertity o
 Hotel:
 
 We have arranged for a block of rooms at the **Highfield House Hotel** ([map](https://www.google.com/maps/place/Highfield+House+Hotel/@50.9287867,-1.3969407,15.85z/data=!4m12!1m6!3m5!1s0x4874740808456623:0xac45b908762e7a39!2sHighfield+House+Hotel!8m2!3d50.9278199!4d-1.391693!3m4!1s0x4874740808456623:0xac45b908762e7a39!8m2!3d50.9278199!4d-1.391693)/ 
-[webpage](http://www.highfieldhousehotel.co.uk/)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Ceris French at C.French(at)soton(dot)ac(dot)uk, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
+[webpage](http://www.highfieldhousehotel.co.uk/)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Ceris French at C.French(at)soton(dot)ac(dot)uk, she will make reservations. 
 
 Getting to the Hotel/**University of Southampton**:
 
-There are several options for reaching the Hotel from the Pittsburgh International Airport. A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40. Super Shuttle is ~$25 for a shared ride van. 
+There are several options for reaching the Hotel from Southampton Central Station (train station, in case you are coming from London). A taxi should cost ~£10, while Uber should be ~£8. From Southampton Airport, a taxi and Uber have the same price as from the train station. 
+There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train station/Airport with stops near the hotel. The U1A, U1E, U1W (from the train station) and U1C (from the Airport) run every ~10 minutes (the weekends the frequency is every 20 min) from 6:00am to 12:00pm. The single ticket cost £2. 
+ 
 
 
 ## Participants
