@@ -1,5 +1,5 @@
 Welcome to the webpage of the second workshop on "The future of SN host galaxy studies", funded by EU/FP7-ERC grant
-no. [615929].
+
 
 ## Rationale
 
