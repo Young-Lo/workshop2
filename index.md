@@ -36,9 +36,10 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
 - Tomás Müller-Bravo (Soton) 
-- Bob Nichol (Portsmouth)
+- Bob Nichol (ICG)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
+- Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
 <!--- 
@@ -46,20 +47,15 @@ Joseph Lyman (Warwick)
 Hanindyo Kuncarayakti (Turku)
 Patricia Schady (Bath)
 Mickael Rigault ()
-Tomás Muller (Soton)
 Matt Greayling (Soton)
 Mike Prusianen (Soton)
 Mike Childress (Soton)
-Bob Nichol (ICG)
 Chris Forhaimer (ICG)
-Maria Vincenzi (ICG)
 Eli Swan (ICG)
 1-2 MaNGA (Claiudia, Daniel...)
 Sebastían Sánchez (UNAM)
 1-2 UGR (Enrique, Rosa, Rubén.. Isa Pérez...)
-? Thomas de Jaeger
 ? Luca Izzo
-? Janet
 ? Phil James + student
 ? Stuart Sim
 ? Staphane Blondin
