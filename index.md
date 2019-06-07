@@ -31,10 +31,12 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 - Charlotte Angus (Soton)
 - Janet Ting-Wan Chen (MPI)
+- Chris Forhaimer (ICG)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
+- Joseph Lyman (Warwick)
 - Tomás Müller-Bravo (Soton) 
 - Bob Nichol (ICG)
 - Matthew Smith (Soton)
@@ -43,14 +45,13 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Phil Wiseman (Soton)
 
 <!--- 
-Joseph Lyman (Warwick)
+
 Hanindyo Kuncarayakti (Turku)
 Patricia Schady (Bath)
 Mickael Rigault ()
 Matt Greayling (Soton)
 Mike Prusianen (Soton)
 Mike Childress (Soton)
-Chris Forhaimer (ICG)
 Eli Swan (ICG)
 1-2 MaNGA (Claiudia, Daniel...)
 Sebastían Sánchez (UNAM)
