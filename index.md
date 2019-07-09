@@ -44,7 +44,6 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Patricia Schady (Bath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
-- Lizi Swann (ICG)
 - Elizabeth Swan (ICG)
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
