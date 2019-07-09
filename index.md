@@ -31,7 +31,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 - Charlotte Angus (Soton)
 - Janet Ting-Wan Chen (MPI)
-- Chris Forhaimer (ICG)
+- Chris Frohmaier (ICG)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
 - Matt Grayling (Soton)
