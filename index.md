@@ -50,20 +50,15 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
-
 <!--- 
-
+Melina Berstein
+Elizabeth Stanway
 Hanindyo Kuncarayakti (Turku)
 Mike Childress (Soton)
-1-2 MaNGA (Claiudia, Daniel...)
-Sebastían Sánchez (UNAM)
-1-2 UGR (Enrique, Rosa, Rubén.. Isa Pérez...)
-? Luca Izzo
-? Phil James + student
-? Stuart Sim
-? Staphane Blondin
-? Takashi Moriya
-Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)--->
+1-2 galaxias (Patri S-B + 1)
+Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
+Sebastían Sánchez (UNAM, remote)
+--->
 
 ## Program
 
