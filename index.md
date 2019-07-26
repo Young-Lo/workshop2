@@ -37,10 +37,12 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Matt Grayling (Soton)
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
+- Young-Lo Kim (CNRS/IN2P3/IP2I Lyon)
 - Joseph Lyman (Warwick)
 - Tomás Müller-Bravo (Soton) 
 - Bob Nichol (ICG)
 - Miika Pursiainen (Soton)
+- Mickael Rigault (CNRS/IN2P3/IP2I Lyon)
 - Patricia Schady (Bath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
@@ -48,10 +50,10 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
+
 <!--- 
 
 Hanindyo Kuncarayakti (Turku)
-Mickael Rigault ()
 Mike Childress (Soton)
 1-2 MaNGA (Claiudia, Daniel...)
 Sebastían Sánchez (UNAM)
