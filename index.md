@@ -91,6 +91,6 @@ The day will start with an introductory talk about one of the three main topics 
 
 ## Contact
 
-C.P.Gutierrez-Avendano(at)soton(dot)ac(dot)uk
+Claudia Gutiérrez: C.P.Gutierrez-Avendano(at)soton(dot)ac(dot)uk
 
-lgalbany(at)ugr(dot)es
+Lluís Galbany: lgalbany(at)ugr(dot)es
