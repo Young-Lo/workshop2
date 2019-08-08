@@ -53,7 +53,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Matthew Smith (Soton)
 - Elizabeth Stanway (Warwick) 
 - Mark Sullivan (Soton)
-- Elizabeth Swan (ICG)
+- Elizabeth Swann (ICG)
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
