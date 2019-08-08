@@ -29,10 +29,13 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 ## Participants
 
+- Ana Afonso (CENTRA)
 - Charlotte Angus (Soton)
 - Melina Bersten (La Plata)
+- Martin Briday (CNRS/IN2P3/IP2I Lyon)
 - Janet Ting-Wan Chen (MPI)
 - Inma Domínguez (Granada)
+- JJ Eldridge (Auckland)
 - Chris Frohmaier (ICG)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
@@ -43,10 +46,12 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Joseph Lyman (Warwick)
 - Tomás Müller-Bravo (Soton) 
 - Bob Nichol (ICG)
+- Nora Nicolas (CNRS/IN2P3/IP2I Lyon)
 - Miika Pursiainen (Soton)
 - Mickael Rigault (CNRS/IN2P3/IP2I Lyon)
 - Patricia Schady (Bath)
 - Matthew Smith (Soton)
+- Elizabeth Stanway (Warwick) 
 - Mark Sullivan (Soton)
 - Elizabeth Swan (ICG)
 - Maria Vincenzi (ICG)
