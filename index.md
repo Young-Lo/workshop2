@@ -35,7 +35,6 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Martin Briday (CNRS/IN2P3/IP2I Lyon)
 - Janet Ting-Wan Chen (MPI)
 - Inma Domínguez (Granada)
-- JJ Eldridge (Auckland)
 - Chris Frohmaier (ICG)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
@@ -43,29 +42,23 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
 - Young-Lo Kim (CNRS/IN2P3/IP2I Lyon)
+<!-- Hanindyo Kuncarayakti (Turku) -->
 - Joseph Lyman (Warwick)
 - Tomás Müller-Bravo (Soton) 
 - Bob Nichol (ICG)
 - Nora Nicolas (CNRS/IN2P3/IP2I Lyon)
 - Miika Pursiainen (Soton)
 - Mickael Rigault (CNRS/IN2P3/IP2I Lyon)
+<!-- Sebastían Sánchez (UNAM, remote) --> 
 - Patricia Schady (Bath)
 - Matthew Smith (Soton)
-- Elizabeth Stanway (Warwick) 
 - Mark Sullivan (Soton)
 - Elizabeth Swann (ICG)
+<!--- José Vílchez (IAA) -->
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
-<!--- 
-Melina Berstein
-Elizabeth Stanway
-Hanindyo Kuncarayakti (Turku)
-Mike Childress (Soton)
-1-2 galaxias (Patri S-B + 1)
-Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
-Sebastían Sánchez (UNAM, remote)
---->
+
 
 ## Program
 
