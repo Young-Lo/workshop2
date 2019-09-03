@@ -62,8 +62,11 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 ## Program
 
-The day will start with an introductory talk about one of the three main topics of the workshop. We will have time for 25' (+5') talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
+The day will start with a introductory talks about each of the three main topics of the workshop. We will have time for 30/20' talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
 
+TThe program can be found [here](https://docs.google.com/document/d/1qAByRSCIRUbRLxQVGlR7yJtBWuGgwNOb1rJdTLdiyeE/edit)
+
+<!--
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 |             |  Monday 23rd            | |             |  Tuesday 24th                  | |             |  Wednesday 25th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
@@ -81,6 +84,7 @@ The day will start with an introductory talk about one of the three main topics 
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 | 19:00-      | Workshop dinner         | |             |                                | |             |                              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
+-->
 
 ## Talks:
 
