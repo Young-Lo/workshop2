@@ -7,7 +7,7 @@ Supernovae (SNe) are one of the most prominent transient events in astronomy. SN
 
 Type Ia SNe (SNe Ia) are found to explode in both early and late type galaxies, and their presence in the former constrains (at least a fraction of) their progenitors to be evolved systems. However, the exact range of ages from which progenitors explode, the delay time distribution, is not well constrained. Neither is its relation to progenitor metallicity. Indeed, a strong debate exists as to whether SNe Ia arise from accretion onto a single white dwarf (WD) star, or from the coalescence of two WDs. These questions are particularly pertinent given the use of SNe Ia in many other areas of astrophysics. Their use as primary high redshift distance indicators led to the discovery of the accelerated expansion of the Universe, while SNe Ia are the main iron producers in the Universe, hence driving chemical evolution of galaxies. The continued use of SNe Ia in these distinct fields demands a more precise understanding of their progenitors and explosions mechanisms. Investigating how SN Ia properties relate to their host galaxy properties can help she light on the origin of these explosions.
 
-In the context of stellar evolution, core-collapse SNe signal the death throes of massive stars. During the last decade, there have been detections of SN progenitors in the pre-explosion archival Hubble Space Telescope images. This is by far the most poweful way to directly constrain the SN progenitors, however, only a handful of SN progenitors have been directly detected. Alternatively, one may perform a statistical study to the environments of SNe to derive useful constraints on the progenitors. Many works in the literature have used imaging and spectroscopy of their host galaxies, in particular their closest environment, to characterize properties such as the age and metallicity of the stellar popullations, or the local star formation density. Those seminal works have been the base of Integral Field Spectroscopy (IFS) surveys of SN host galaxies like PISCO and AMUSING. These latter reference surveys will be the basis for much of the discussion in this workshop.
+In the context of stellar evolution, core-collapse SNe signal the death throes of massive stars. During the last decade, there have been detections of SN progenitors in the pre-explosion archival Hubble Space Telescope images. This is by far the most powerful way to directly constrain the SN progenitors, however, only a handful of SN progenitors have been directly detected. Alternatively, one may perform a statistical study to the environments of SNe to derive useful constraints on the progenitors. Many works in the literature have used imaging and spectroscopy of their host galaxies, in particular their closest environment, to characterize properties such as the age and metallicity of the stellar populations, or the local star formation density. Those seminal works have been the base of Integral Field Spectroscopy (IFS) surveys of SN host galaxies like PISCO and AMUSING. These latter reference surveys will be the basis for much of the discussion in this workshop.
 
 ## Venue
 
@@ -27,7 +27,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
  
 
 
-## Participants
+## Participants (25 + 1)
 
 - Ana Afonso (CENTRA)
 - Charlotte Angus (Soton)
@@ -42,19 +42,17 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 - Claudia Gutiérrez (Soton)
 - Lisa Kelsey (Soton)
 - Young-Lo Kim (CNRS/IN2P3/IP2I Lyon)
-<!-- Hanindyo Kuncarayakti (Turku) -->
 - Joseph Lyman (Warwick)
 - Tomás Müller-Bravo (Soton) 
 - Bob Nichol (ICG)
 - Nora Nicolas (CNRS/IN2P3/IP2I Lyon)
 - Miika Pursiainen (Soton)
 - Mickael Rigault (CNRS/IN2P3/IP2I Lyon)
-<!-- Sebastían Sánchez (UNAM, remote) --> 
+- Sebastían Sánchez (UNAM, remote) 
 - Patricia Schady (Bath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
 - Elizabeth Swann (ICG)
-<!--- José Vílchez (IAA) -->
 - Maria Vincenzi (ICG)
 - Phil Wiseman (Soton)
 
