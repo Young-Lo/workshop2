@@ -31,10 +31,8 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
 
 - Ana Afonso (CENTRA)
 - Charlotte Angus (Soton)
-- Melina Bersten (La Plata)
 - Martin Briday (CNRS/IN2P3/IP2I Lyon)
 - Janet Ting-Wan Chen (MPI)
-- Inma Domínguez (Granada)
 - Chris Frohmaier (ICG)
 - Lluís Galbany (Granada)
 - Santiago González-Gaitán (CENTRA)
