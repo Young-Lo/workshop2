@@ -27,7 +27,7 @@ There is the Unilink bus line (https://www.unilinkbus.co.uk/) from the train sta
  
 
 
-## Participants (25 + 1)
+## Participants (23 + 1)
 
 - Ana Afonso (CENTRA)
 - Charlotte Angus (Soton)
